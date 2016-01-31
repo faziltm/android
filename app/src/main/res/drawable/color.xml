@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <resources>
+        <drawable android:name="red_color">#ff0000</drawable>
+        <drawable android:name="blue_color">#0000ff</drawable>
+        <drawable android:name="green_color">#00ff00</drawable>
+    </resources>
+</selector>
